@@ -1,0 +1,83 @@
+# HR Analytics Using SQL
+
+## Project Overview
+
+This project focuses on analyzing HR data using SQL to extract meaningful business insights that support workforce planning and human resource decision-making. The analysis explores employee demographics, department distribution, performance, engagement, satisfaction, training, and attrition through a series of business-oriented SQL queries.
+
+The project demonstrates proficiency in SQL by solving real-world HR business problems using data exploration, aggregation, window functions, common table expressions (CTEs), subqueries, and views.
+
+## Objectives
+
+* Analyze employee distribution across departments and business units.
+* Evaluate employee performance and engagement.
+* Assess employee satisfaction and work-life balance.
+* Examine training costs and participation.
+* Identify workforce trends and potential areas for improvement.
+* Generate actionable business insights using SQL.
+
+## Dataset
+
+The dataset contains employee information, including:
+
+* Employee demographics
+* Department and business unit
+* Performance ratings
+* Engagement and satisfaction scores
+* Work-life balance
+* Training details and costs
+* Employment status
+* Employee ratings
+
+## SQL Concepts Used
+
+* SELECT Statements
+* WHERE Clause
+* ORDER BY
+* GROUP BY
+* HAVING
+* Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
+* CASE Statements
+* JOINS (if applicable)
+* Subqueries
+* Common Table Expressions (CTEs)
+* Window Functions (ROW_NUMBER, RANK, DENSE_RANK)
+* Views
+
+## Business Questions Solved
+
+* Total number of employees
+* Employee distribution by department
+* Gender-wise employee count
+* Average employee age
+* Department-wise engagement score
+* Employee satisfaction analysis
+* Performance rating distribution
+* Training cost analysis
+* Top-performing departments
+* Employees with above-average engagement
+* Ranking employees based on performance
+* Department-wise workforce analysis
+* Attrition analysis
+* Training effectiveness analysis
+* Additional HR business queries
+
+## Key Insights
+
+* Identified departments with the largest workforce.
+* Compared employee engagement and satisfaction across departments.
+* Evaluated employee performance using ranking techniques.
+* Analyzed training investments and departmental spending.
+* Highlighted workforce trends to support HR decision-making.
+
+## Skills Demonstrated
+
+* SQL Query Writing
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Business Problem Solving
+* Data Aggregation
+* Window Functions
+* CTEs
+* Subqueries
+* Business Insight Generation
+
